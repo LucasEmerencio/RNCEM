@@ -18,7 +18,21 @@ Assim que estiver com o arquivo em mãos, mova o arquivo para a pasta "weights",
 ## Interface
 
 ## Exemplos de Resultados
-![image](https://github.com/user-attachments/assets/c59c896a-6e10-4ab6-8768-1f990a09a0b3)
+
+- Perda de Validação por Época
+  ![Weights7](https://github.com/user-attachments/assets/05a64031-a459-4c0e-a134-b4fc3034713f)
+
+- Matriz de confusão final
+  ![confmax8disbperc](https://github.com/user-attachments/assets/6e316fdc-3dfc-4734-914e-f12771335545)
+
+- Imagem e Detecção
+  ![deteccao_6 (1)](https://github.com/user-attachments/assets/d74bd0f2-0b2b-457e-88ff-d848c7b7c2c2)
+  ![IMG_2586 (1)](https://github.com/user-attachments/assets/13e6350c-15d5-441d-adb3-51320fc3459f)
+
+
+- Interface do usuário
+  ![interface7 (1)](https://github.com/user-attachments/assets/1b11926e-27b3-4622-8c38-74bbff8897fe)
+
 
 
 
