@@ -27,9 +27,8 @@ Assim que estiver com o arquivo em mãos, mova o arquivo para a pasta "weights",
 
 - Imagem e Detecção
 
-  ![deteccao_6 (1)](https://github.com/user-attachments/assets/d74bd0f2-0b2b-457e-88ff-d848c7b7c2c2)
+ ![IMG_2586 (1)](https://github.com/user-attachments/assets/13e6350c-15d5-441d-adb3-51320fc3459f) ![deteccao_6 (1)](https://github.com/user-attachments/assets/d74bd0f2-0b2b-457e-88ff-d848c7b7c2c2)
 
-  ![IMG_2586 (1)](https://github.com/user-attachments/assets/13e6350c-15d5-441d-adb3-51320fc3459f)
 
 
 - Interface do usuário
