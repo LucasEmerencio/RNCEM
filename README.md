@@ -26,7 +26,9 @@ Assim que estiver com o arquivo em mãos, mova o arquivo para a pasta "weights",
   ![confmax8disbperc](https://github.com/user-attachments/assets/6e316fdc-3dfc-4734-914e-f12771335545)
 
 - Imagem e Detecção
+
   ![deteccao_6 (1)](https://github.com/user-attachments/assets/d74bd0f2-0b2b-457e-88ff-d848c7b7c2c2)
+
   ![IMG_2586 (1)](https://github.com/user-attachments/assets/13e6350c-15d5-441d-adb3-51320fc3459f)
 
 
